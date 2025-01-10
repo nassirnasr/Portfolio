@@ -7,17 +7,17 @@ import { useRef } from "react"
 const items = [
     {
         id: 1,
-        title: "Company Bankruptcy Prediction",
+        title: "Shule System",
         color: "from-red-300 to-blue-300",
-        desc: "Developed a prediction system with a sleek UI using Streamlit, analyzing financial data to forecast company stability.",
-        img: "/i.png",
-        link: "https//nasr.nac"
+        desc: "School management dashboard web application for easy managing school records and management",
+        img: "/shulesystem.png",
+        link: "https://schoolmanagementsystem-iota.vercel.app/admin"
     },
     {
         id: 2,
-        title: "ZanTour App",
+        title: "Company Bankruptcy Prediction",
         color: "from-blue-300 to-violet-300",
-        desc: "Created a mobile app for tourists with real-time charts, search functionality, and language translation from English to Swahili.",
+        desc: "AI and ML project for predicting company bankrupt",
         img: "/j.png",
         link: "https//nasr.nac"
     },
@@ -31,9 +31,9 @@ const items = [
     },
     {
         id: 4,
-        title: "Travel App",
+        title: "ICT Project Management System",
         color: "from-purple-300 to-red-300",
-        desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis error blanditiis atque, numquam aliquid velit tenetur similique at! Repellat, amet?",
+        desc: "The project is a web-based application designed to help teams and individuals manage their projects and tasks efficiently",
         img: "/i.png",
         link: "https//nasr.nac"
     },
