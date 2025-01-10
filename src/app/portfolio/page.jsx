@@ -15,11 +15,11 @@ const items = [
     },
     {
         id: 2,
-        title: "Company Bankruptcy Prediction",
+        title:"ICT Project Management System",
         color: "from-blue-300 to-violet-300",
-        desc: "AI and ML project for predicting company bankrupt",
+        desc:  "The project is a web-based application designed to help teams and individuals manage their projects and tasks efficiently",
         img: "/j.png",
-        link: "https//nasr.nac"
+        link: "#"
     },
     {
         id: 3,
@@ -27,15 +27,15 @@ const items = [
         color: "from-violet-300 to-purple-300",
         desc: "Built a text summarization tool with a user-friendly UI using Streamlit. Users can paste URLs to get custom summaries.",
         img: "/k.png",
-        link: "https//nasr.nac"
+        link: "#"
     },
     {
         id: 4,
-        title: "ICT Project Management System",
+        title:  "Company Bankruptcy Prediction" ,
         color: "from-purple-300 to-red-300",
-        desc: "The project is a web-based application designed to help teams and individuals manage their projects and tasks efficiently",
+        desc: "AI and ML project for predicting company bankrupt",
         img: "/i.png",
-        link: "https//nasr.nac"
+        link: "#"
     },
 ];
 
